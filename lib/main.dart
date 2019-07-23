@@ -1,10 +1,9 @@
 import 'package:flutter/material.dart';
-// import 'package:flutter_examples_navigation/drawer.dart';
-import 'drawer.dart';
+import 'tabs.dart';
 
 void main() {
   runApp(MaterialApp(
-    title: 'Navigation Basics',
-    home: DrawerMain(),
+    title: 'Flutter Navigation Examples',
+    home: MyTab(),
   ));
 }
