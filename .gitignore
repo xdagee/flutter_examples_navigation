@@ -20,6 +20,4 @@ doc/api/
 *.js.deps
 *.js.map
 .vscode/launch.json
-android/.gradle/4.10.2/fileHashes/fileHashes.bin
-android/.gradle/4.10.2/fileHashes/fileHashes.lock
-android/.gradle/buildOutputCleanup/buildOutputCleanup.lock
+android/.gradle/
