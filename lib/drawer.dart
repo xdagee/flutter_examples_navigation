@@ -5,8 +5,8 @@ import 'pages/pizza.dart';
 
 class DrawerMain extends StatelessWidget {
   final String title;
-  final _appTitle = 'My drawer App';
-  final _appBody = 'My drawer home';
+  final _appTitle = 'My Play App';
+  final _appBody = 'My Play App HomePage';
 
   DrawerMain({Key key, this.title}) : super(key: key);
 

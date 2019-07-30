@@ -1,9 +1,6 @@
 import 'package:flutter/material.dart';
-import 'tabs.dart';
+import 'app.dart';
 
 void main() {
-  runApp(MaterialApp(
-    title: 'Flutter Navigation Examples',
-    home: MyTab(),
-  ));
+  runApp(MyPlayApp());
 }
